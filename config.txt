@@ -1,3 +1,4 @@
-name = Sirachka
+name = Iliyna Sirachka
 size = 100
-email = Sirachka@dir.bg
+email = iliyanaSirachka@dir.bg
+
